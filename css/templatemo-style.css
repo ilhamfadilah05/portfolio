@@ -343,6 +343,18 @@ h1,h2,h3,h4,h5
         padding-bottom: 20px;
 		color: #ffffff;
     }
+#contact .social-icon
+    {
+        padding-left: 10px;
+    }
+
+#contact .social-header
+    {
+        font-size: 20px;
+		font-weight: bold;
+        padding-bottom: 20px;
+		color: #ffffff;
+    }
 #contact .fa
     {
         border: 2px solid #ffffff;
